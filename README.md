@@ -15,7 +15,7 @@ Emergency responders must prioritize limited resources with incomplete early sig
 
 ## 🧠 Modeling Approach
 
-### ✅ Version 4 — Adaptive Hybrid Model (Current Best)
+### ✅ Version 4 — Adaptive Hybrid Model 
 
 The final approach combines:
 
